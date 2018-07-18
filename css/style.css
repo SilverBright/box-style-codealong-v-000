@@ -224,7 +224,10 @@ header {
   z-index: 2;
   border-bottom: 1px solid #ccc;
   text-align: center;
-  
+}
+
+#navbar nav {
+  border-left: 1px solid #ccc;
 }
 
 /*////////// LOGO //////////*/
